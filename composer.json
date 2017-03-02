@@ -1,0 +1,12 @@
+{
+    "name": "whywaita/test-wordpress",
+    "authors": [
+        {
+            "name": "whywaita",
+            "email": "whywaita@whywrite.it"
+        }
+    ],
+    "require": {
+      "php": "^7"
+    }
+}
